@@ -9,6 +9,8 @@
       .map((it) => {
         if (it.start === it.end) {
           return `${it.start}月`;
+        } else if (it.start > it.end) {
+          return `${it.start}月到隔年${it.end}月`;
         }
         return `${it.start} - ${it.end}月`;
       })
