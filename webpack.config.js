@@ -15,6 +15,8 @@ const fileLoaderRule = {
   use: ["file-loader"],
 };
 
+const sveltePreprocess = require("./svelte.config");
+
 module.exports = {
   client: {
     entry: config.client.entry(),
@@ -27,6 +29,7 @@ module.exports = {
           use: {
             loader: "svelte-loader",
             options: {
+              preprocess: sveltePreprocess.preprocess,
               compilerOptions: {
                 dev,
                 hydratable: true,
@@ -67,6 +70,7 @@ module.exports = {
           use: {
             loader: "svelte-loader",
             options: {
+              preprocess: sveltePreprocess.preprocess,
               compilerOptions: {
                 css: false,
                 generate: "ssr",
