@@ -33,6 +33,7 @@
   <div class="flex">
     {#if item.image}
       <img
+        loading="lazy"
         src={item.image}
         alt={item.name}
         class="rounded-md h-40 w-40 mr-2 object-cover"
