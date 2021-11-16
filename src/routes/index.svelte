@@ -1,10 +1,20 @@
 <script>
-  import fruits from "../data/fruits.json";
+  import fruitsSource from "../data/fruits.json";
+  import vegetablesSource from "../data/vegetables.json";
   import Card from "../components/Card.svelte";
   import Button from "../components/Button.svelte";
 
+  const fruits = fruitsSource.map((it) => ({ ...it, type: "fruit" }));
+  const vegetables = vegetablesSource.map((it) => ({
+    ...it,
+    type: "vegetable",
+  }));
+
   let selectedMonth = new Date().getMonth() + 1;
-  $: fruitsToDisplay = filterFruitsByMonth(selectedMonth);
+  $: foodsToDisplay = [
+    ...filterFoodsByMonth(fruits, selectedMonth),
+    ...filterFoodsByMonth(vegetables, selectedMonth),
+  ];
 
   const monthInPeriod = (period, month) => {
     if (period.start <= period.end) {
@@ -14,12 +24,12 @@
     }
   };
 
-  const filterFruitsByMonth = (month) => {
+  const filterFoodsByMonth = (foods, month) => {
     if (month === null) {
-      return fruits;
+      return foods;
     } else {
-      return fruits.filter((fruit) => {
-        return fruit.periods.some((period) => monthInPeriod(period, month));
+      return foods.filter((food) => {
+        return food.periods.some((period) => monthInPeriod(period, month));
       });
     }
   };
@@ -72,7 +82,7 @@
 </section>
 
 <section class="grid grid-cols-2 gap-2">
-  {#each fruitsToDisplay as fruit}
+  {#each foodsToDisplay as fruit}
     <Card item={fruit} />
   {/each}
 </section>
