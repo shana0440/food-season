@@ -1,0 +1,348 @@
+[
+  {
+    "name": "梅子",
+    "summary": "風味以清酸稱絕，滿口生津而別有風味",
+    "periods": [
+      {
+        "start": 4,
+        "end": 4
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_plum.jpg",
+    "description": "梅子所含的果酸較多，如果生食未成熟的青梅會造成腸胃不適，經過醃漬、曝曬加工之後更適合食用。梅子的加工品項多樣，除梅乾、蜜餞、脆梅、梅醬等，也能用來釀酒。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Plum"
+  },
+  {
+    "name": "西瓜",
+    "summary": "香甜多汁，被稱為「夏季瓜果之王」",
+    "periods": [
+      {
+        "start": 4,
+        "end": 8
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_watermelon.jpg",
+    "description": "西瓜香甜多汁，消暑解渴，被稱為「夏季瓜果之王」。水分含量佔西瓜整體約94%，不含脂肪和膽固醇，卻具備許多人體所需的營養素。傳統中醫認為西瓜味甘、性寒，助於解暑、止渴、開胃、利尿等。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Watermelon"
+  },
+  {
+    "name": "李子",
+    "summary": "豐富的氨基酸、維生素B12等營養成份",
+    "periods": [
+      {
+        "start": 5,
+        "end": 8
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_plumlee.jpg",
+    "description": "李子又名「嘉慶子」，對氣候的適應性強、對土壤要求也不嚴格，生長迅速產量高，經濟價值高。用來鮮食外也能做成罐頭、糖漬等加工食品。許多人會把李子加冰糖燉煮，用來潤喉開嗓，而東歐則會用李子釀成李子白蘭地。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Plum2"
+  },
+  {
+    "name": "芒果",
+    "summary": "富含大量的維生素C，抗氧化及美膚",
+    "periods": [
+      {
+        "start": 5,
+        "end": 9
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_mango.jpg",
+    "description": "「芒果」，中文稱呼來自於英文\"Mango\"的翻譯，漆樹科，原產於印度。早在明朝，李時珍便將芒果稱為「果中極品」，有止暈、行氣、消食等功效。另外，芒果富含大量的維生素C，也有助於抗氧化及美膚。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Mango"
+  },
+  {
+    "name": "枇杷",
+    "summary": "果肉酸甜適中，柔軟多汁",
+    "periods": [
+      {
+        "start": 3,
+        "end": 4
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_loquat.jpg",
+    "description": "枇杷是春季成熟的水果，果肉酸甜適中且柔軟多汁，除了鮮食之外還可製成加工品如果膏、果露，釀酒等，以及非常知名的枇杷膏。根據《本草綱目》所記載，枇杷能夠袪痰止咳、生津潤肺，清熱健胃。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Loquat"
+  },
+  {
+    "name": "草莓",
+    "summary": "擁有豐富的維生素C",
+    "periods": [
+      {
+        "start": 12,
+        "end": 3
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_strawberry.jpg",
+    "description": "草莓擁有豐富的維生素C，每100公克有60毫克，是蘋果的7-10倍；果肉內富含果膠和膳食纖維，可以幫助消化。除了鮮食之外，草莓也是製作加工品的好原料，市面上有許多草莓加工食品，例如草莓泡芙、草莓肉圓和草莓香腸等。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Strawberry"
+  },
+  {
+    "name": "荔枝",
+    "summary": "原生自中國南方的亞熱帶水果",
+    "periods": [
+      {
+        "start": 5,
+        "end": 8
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_litchi.jpg",
+    "description": "每年春末夏初時期，最好吃的其中一項水果就是荔枝，玉荷包的價錢常常是新聞的焦點。荔枝生長的環境適合冬春乾燥且夏秋多雨，因此台灣中南部成為最大的產地，其中高雄市為最大產區，其次是台中、南投和彰化。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Litchi"
+  },
+  {
+    "name": "紅龍果",
+    "summary": "果肉味甜多汁，果香四溢",
+    "periods": [
+      {
+        "start": 6,
+        "end": 11
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_dragonfruit.jpg",
+    "description": "紅龍果是仙人掌科的植物，外表宛如一團炙熱的紅色火球而得名。火龍果屬於涼性水果，在自然狀態下，果實於夏秋成熟，果肉味甜多汁，果香四溢，也因為佈滿了黑色的小籽，所以有人稱為芝麻果。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Dragonfruit"
+  },
+  {
+    "name": "百香果",
+    "summary": "紫紅色外皮、果香酸甜好滋味",
+    "periods": [
+      {
+        "start": 7,
+        "end": 9
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_passionfruit.jpg",
+    "description": "紫紅色外皮、飄來天然的果香、嘗來酸甜滋味，你今年吃百香果了嗎？切開百香果，用小湯匙挖出黃澄澄的汁液，不斷挑動味蕾、口水直流。百香果的原產地在南美洲的巴西，英文名稱是passion fruit，熱情的水果。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Passionfruit"
+  },
+  {
+    "name": "桃子",
+    "summary": "果皮光澤具彈性、絨毛綿密，果實飽滿",
+    "periods": [
+      {
+        "start": 4,
+        "end": 8
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_peach.jpg",
+    "description": "每年早春桃花盛開，嬌豔動人，夏季則是結成香甜的水蜜桃。台灣水蜜桃有平地及高山之分，因栽種區域不同產生不同口感，水蜜桃味甘、性溫，且富含蛋白質、鈣、磷、鐵和維生素B、C。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Peach"
+  },
+  {
+    "name": "梨子",
+    "summary": "含水量達89%，是優質的天然飲料",
+    "periods": [
+      {
+        "start": 6,
+        "end": 9
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_pear.jpg",
+    "description": "梨子的含水量達89%，是優質的天然飲料，內含有大量果糖，可迅速被人體吸收，水梨大部份的纖維都在果皮上，連皮一起食用可得到較多完整的纖維化合物。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Pear"
+  },
+  {
+    "name": "葡萄",
+    "summary": "營養豐富，含有多種礦物質",
+    "periods": [
+      {
+        "start": 6,
+        "end": 8
+      },
+      {
+        "start": 10,
+        "end": 12
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_grape.jpg",
+    "description": "葡萄色鮮、氣香、味美，與蘋果、柑橘和香蕉並稱為世界四大水果，是全世界栽培面積最廣的水果，也是最古老的水果之一，早在西元前好幾世紀，人類便開始食用，並拿葡萄釀酒，至今葡萄酒仍然受到酒客們歡迎的類型。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Grape"
+  },
+  {
+    "name": "酪梨",
+    "summary": "果肉的口感柔軟，口味有核仁味",
+    "periods": [
+      {
+        "start": 7,
+        "end": 9
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_avocado.jpg",
+    "description": "酪梨是屬於被子植物門的樟科。果實屬漿果，成熟時果皮由綠色變紫色。裡面有一顆大種子和果肉，熟果果肉的質地很像奶油，色淡黃至鮮黃，果肉的口感柔軟，口味有核仁味，富含植物性脂肪外，並含有豐富的蛋白質、礦物質及維他命等。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Avocado"
+  },
+  {
+    "name": "龍眼",
+    "summary": "色澤晶瑩、肉質鮮嫩、甜美爽口",
+    "periods": [
+      {
+        "start": 7,
+        "end": 8
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_longan.jpg",
+    "description": "新鮮的龍眼色澤晶瑩、肉質鮮嫩、甜美爽口；龍眼乾以土窯烘焙製成，利用龍眼樹枝當柴燒，乾柴慢火，保存了果肉營養素，也增加食用上的口感；而蜜蜂採集龍眼花所分泌的花蜜，香味濃郁、滑潤醇美。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Longan"
+  },
+  {
+    "name": "文旦柚",
+    "summary": "皮薄柔軟多汁，清爽甜中帶酸",
+    "periods": [
+      {
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_pomelo.jpg",
+    "description": "文旦柚也稱為柚子，諧音「佑子」具吉祥含意。文旦柚熱量很低，含豐富的維生素C、維生素B2、維生素P、胡蘿蔔素，以及鈣、鉀、磷、鐵等微量元素，可健胃、化痰、美容養顏、幫助消化、降低膽固醇。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Pomelo"
+  },
+  {
+    "name": "柿子",
+    "summary": "有極高的營養價值，可補充養分",
+    "periods": [
+      {
+        "start": 10,
+        "end": 12
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_persimmon.jpg",
+    "description": "柿子不僅美麗，還富含蛋白質、脂肪、胡蘿蔔素、維生素C、碘及各種礦物質等，有極高的營養價值，可補充養分、潤肺生津、幫助消化，對缺碘所引起的甲狀腺腫大也有幫助。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Persimmon"
+  },
+  {
+    "name": "洛神",
+    "summary": "艷麗火紅，像極了一顆顆的紅寶石",
+    "periods": [
+      {
+        "start": 9,
+        "end": 11
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_roselle.jpg",
+    "description": "洛神花具有相當高的利用價值，嫩葉可當作蔬菜，莖皮抽取出的纖維可做為紡織、造紙之用，一般來說，我們食用的部份是洛神花去籽後的紅色花萼，可作為蜜餞、果醬、果凍、果汁等，也適合煮茶、釀醋和釀酒。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Roselle"
+  },
+  {
+    "name": "金棗",
+    "summary": "金棗不是棗，原名是「金柑」",
+    "periods": [
+      {
+        "start": 12,
+        "end": 2
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_kumquat.jpg",
+    "description": "新鮮的金柑果實呈圓形或橢圓形，金黃色，大約如大拇指，可連皮帶肉吃是最大的特色，果皮甜中帶點苦味，可潤喉，生津解渴，幫助消化。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Kumquat"
+  },
+  {
+    "name": "柑橘",
+    "summary": "秋末冬初正是臺灣柑橘成熟季節",
+    "periods": [
+      {
+        "start": 11,
+        "end": 2
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_tangerine.jpg",
+    "description": "柑橘由內至外都具有營養及經濟價值，果肉有豐富的維他命Ｃ和礦物質等，可供鮮食之外，也常出現在加工食品上，例如：果汁、果醬、果凍、糖果、蜜餞、沾醬及罐頭等。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Tangerine"
+  },
+  {
+    "name": "柳丁",
+    "summary": "好種植的水果，對環境適應性極強",
+    "periods": [
+      {
+        "start": 12,
+        "end": 2
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_orange.jpg",
+    "description": "柳丁就是柳橙，在植物學分類上屬於芸香科柑橘屬，在這個屬類之下的水果包含柚類、檸檬、葡萄柚等，通常會用柑橘類來泛稱這些水果。有此一說，柳橙被俗稱柳丁是因為「橙」字為誤讀為「登」，而用臺語讀來就是柳丁。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Orange"
+  },
+  {
+    "name": "番茄",
+    "summary": "特有的茄紅素，具有獨特的抗氧化能力",
+    "periods": [
+      {
+        "start": 12,
+        "end": 4
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_tomato.jpg",
+    "description": "番茄最早來自南美洲的安地斯山區，來到台灣之後非常適合中南部低海拔的氣候，因此台南、高雄、屏東是主要產區，夏季則是中部山區的南投為主。因為產區的調整，雖然番茄的盛產期在冬天，但全年都有不同品種的番茄可享用。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Tomato"
+  },
+  {
+    "name": "蜜棗",
+    "summary": "印度棗俗稱棗子、蜜棗，外形如青蘋果",
+    "periods": [
+      {
+        "start": 12,
+        "end": 2
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_jujube.jpg",
+    "description": "棗子營養豐富，富含維生素C、B1及B2，尤其維生素C，是西瓜的5倍，水梨的9倍，蘋果的20倍，堪稱為「維生素C果」。臺灣的產地集中在南部，以高雄、臺南和屏東為主。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Jujube"
+  },
+  {
+    "name": "木瓜",
+    "summary": "富有豐富礦物質，可預防感冒、幫助消化",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_papaya.jpg",
+    "description": "木瓜富含維生素B1與B2、維生素A、維生素C、木瓜酵素及多種礦物質，可預防感冒、幫助消化，對產後婦女來說，也有促進乳汁分泌的功用。紅肉木瓜含大量的β胡蘿蔔素，算是天然的抗氧化劑，可以延緩衰老。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Papaya"
+  },
+  {
+    "name": "鳳梨",
+    "summary": "果肉中的酵素能解油膩、助消化、降血壓",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_pineapple.jpg",
+    "description": "鳳梨用途廣泛，鳳梨葉可抽取纖維，製作天然纖維衣物，果實可鮮食、觀賞，並加工製成罐頭、果醬、蜜餞、飲品、甜點等；又因鳳梨台語諧音「旺來」具吉祥意味，為逢年過節、祭拜時必備的水果。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Pineapple"
+  },
+  {
+    "name": "蓮霧",
+    "summary": "風味獨特的水果，老少皆宜",
+    "periods": [
+      {
+        "start": 5,
+        "end": 7
+      },
+      {
+        "start": 11,
+        "end": 3
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_bellfruit.jpg",
+    "description": "蓮霧富含豐富的維生素C、維生素B2、維生素B6、鈣、鎂、硼、錳、鐵、銅、鋅、鉬等微量元素，屬於微鹼性水果，可調節人胃腸的酸鹼度。蓮霧富含水分、清涼解渴。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Bellfruit"
+  },
+  {
+    "name": "釋迦",
+    "summary": "果肉為乳白色，口感綿密細膩",
+    "periods": [
+      {
+        "start": 8,
+        "end": 3
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_custardapple.jpg",
+    "description": "釋迦內含豐富維生素C、蛋白質、鐵、鉀、鈣、磷等，助於調節血壓、促進腸胃蠕動。對於未患有糖尿病，牙齒不好且高血壓的長者來說，釋迦是良好的營養補充食物。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Custardapple"
+  }
+]
