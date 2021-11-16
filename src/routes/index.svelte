@@ -4,17 +4,25 @@
   import Card from "../components/Card.svelte";
   import Button from "../components/Button.svelte";
 
-  const fruits = fruitsSource.map((it) => ({ ...it, type: "fruit" }));
+  const FRUIT = "fruit";
+  const VEGETABLE = "vegetable";
+  const ALL_TYPES = [FRUIT, VEGETABLE];
+
+  const fruits = fruitsSource.map((it) => ({ ...it, type: FRUIT }));
   const vegetables = vegetablesSource.map((it) => ({
     ...it,
-    type: "vegetable",
+    type: VEGETABLE,
   }));
 
+  let selectedTypes = ALL_TYPES;
+  $: isAllTypeSelected =
+    selectedTypes.includes(FRUIT) && selectedTypes.includes(VEGETABLE);
   let selectedMonth = new Date().getMonth() + 1;
+
   $: foodsToDisplay = [
     ...filterFoodsByMonth(fruits, selectedMonth),
     ...filterFoodsByMonth(vegetables, selectedMonth),
-  ];
+  ].filter((it) => selectedTypes.includes(it.type));
 
   const monthInPeriod = (period, month) => {
     if (period.start <= period.end) {
@@ -37,7 +45,40 @@
   const handleSelectMonth = (month) => () => {
     selectedMonth = month;
   };
+
+  const handleSelectType = (type) => () => {
+    if (type === null) {
+      if (isAllTypeSelected) {
+        selectedTypes = [];
+      } else {
+        selectedTypes = ALL_TYPES;
+      }
+    }
+    if (selectedTypes.includes(type)) {
+      selectedTypes = selectedTypes.filter((it) => it !== type);
+    } else {
+      selectedTypes = [...selectedTypes, type];
+    }
+  };
 </script>
+
+<section class="my-2 text-center">
+  <Button isSelected={isAllTypeSelected} on:click={handleSelectType(null)}>
+    全部
+  </Button>
+  <Button
+    isSelected={selectedTypes.includes(FRUIT)}
+    on:click={handleSelectType(FRUIT)}
+  >
+    水果
+  </Button>
+  <Button
+    isSelected={selectedTypes.includes(VEGETABLE)}
+    on:click={handleSelectType(VEGETABLE)}
+  >
+    蔬菜
+  </Button>
+</section>
 
 <section class="my-2 text-center">
   <Button isSelected={selectedMonth == null} on:click={handleSelectMonth(null)}>
