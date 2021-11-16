@@ -2,7 +2,7 @@
 </script>
 
 <svelte:head>
-  <title>Food in Season</title>
+  <title>Seasonal Foods</title>
 </svelte:head>
 
 <main class="container mx-auto app">
