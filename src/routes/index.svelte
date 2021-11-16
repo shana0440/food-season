@@ -1,8 +1,10 @@
 <script>
   import fruits from "../data/fruits.json";
   import Card from "../components/Card.svelte";
+  import Button from "../components/Button.svelte";
 
-  let fruitsToDisplay = fruits;
+  let selectedMonth = null;
+  $: fruitsToDisplay = filterFruitsByMonth(selectedMonth);
 
   const monthInPeriod = (period, month) => {
     if (period.start <= period.end) {
@@ -12,31 +14,61 @@
     }
   };
 
-  const handleSelectMonth = (month) => () => {
+  const filterFruitsByMonth = (month) => {
     if (month === null) {
-      fruitsToDisplay = fruits;
+      return fruits;
     } else {
-      fruitsToDisplay = fruits.filter((fruit) => {
+      return fruits.filter((fruit) => {
         return fruit.periods.some((period) => monthInPeriod(period, month));
       });
     }
   };
+
+  const handleSelectMonth = (month) => () => {
+    selectedMonth = month;
+  };
 </script>
 
 <section class="my-2 text-center">
-  <button class="btn" on:click={handleSelectMonth(null)}>全部</button>
-  <button class="btn" on:click={handleSelectMonth(1)}>1月</button>
-  <button class="btn" on:click={handleSelectMonth(2)}>2月</button>
-  <button class="btn" on:click={handleSelectMonth(3)}>3月</button>
-  <button class="btn" on:click={handleSelectMonth(4)}>4月</button>
-  <button class="btn" on:click={handleSelectMonth(5)}>5月</button>
-  <button class="btn" on:click={handleSelectMonth(6)}>6月</button>
-  <button class="btn" on:click={handleSelectMonth(7)}>7月</button>
-  <button class="btn" on:click={handleSelectMonth(8)}>8月</button>
-  <button class="btn" on:click={handleSelectMonth(9)}>9月</button>
-  <button class="btn" on:click={handleSelectMonth(10)}>10月</button>
-  <button class="btn" on:click={handleSelectMonth(11)}>11月</button>
-  <button class="btn" on:click={handleSelectMonth(12)}>12月</button>
+  <Button isSelected={selectedMonth == null} on:click={handleSelectMonth(null)}>
+    全部
+  </Button>
+  <Button isSelected={selectedMonth == 1} on:click={handleSelectMonth(1)}>
+    1月
+  </Button>
+  <Button isSelected={selectedMonth == 2} on:click={handleSelectMonth(2)}>
+    2月
+  </Button>
+  <Button isSelected={selectedMonth == 3} on:click={handleSelectMonth(3)}>
+    3月
+  </Button>
+  <Button isSelected={selectedMonth == 4} on:click={handleSelectMonth(4)}>
+    4月
+  </Button>
+  <Button isSelected={selectedMonth == 5} on:click={handleSelectMonth(5)}>
+    5月
+  </Button>
+  <Button isSelected={selectedMonth == 6} on:click={handleSelectMonth(6)}>
+    6月
+  </Button>
+  <Button isSelected={selectedMonth == 7} on:click={handleSelectMonth(7)}>
+    7月
+  </Button>
+  <Button isSelected={selectedMonth == 8} on:click={handleSelectMonth(8)}>
+    8月
+  </Button>
+  <Button isSelected={selectedMonth == 9} on:click={handleSelectMonth(9)}>
+    9月
+  </Button>
+  <Button isSelected={selectedMonth == 10} on:click={handleSelectMonth(10)}>
+    10月
+  </Button>
+  <Button isSelected={selectedMonth == 11} on:click={handleSelectMonth(11)}>
+    11月
+  </Button>
+  <Button isSelected={selectedMonth == 12} on:click={handleSelectMonth(12)}>
+    12月
+  </Button>
 </section>
 
 <section class="grid grid-cols-2 gap-2">
@@ -44,9 +76,3 @@
     <Card item={fruit} />
   {/each}
 </section>
-
-<style lang="postcss">
-  .btn {
-    @apply w-14 py-1 px-2 font-semibold rounded-md border-2 border-gray-300;
-  }
-</style>
