@@ -3,7 +3,7 @@
   import Card from "../components/Card.svelte";
   import Button from "../components/Button.svelte";
 
-  let selectedMonth = null;
+  let selectedMonth = new Date().getMonth() + 1;
   $: fruitsToDisplay = filterFruitsByMonth(selectedMonth);
 
   const monthInPeriod = (period, month) => {
