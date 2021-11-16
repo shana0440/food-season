@@ -1,0 +1,872 @@
+[
+  {
+    "name": "花椰菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 8,
+        "end": 4
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "青花菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 11,
+        "end": 4
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "甜瓜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 8,
+        "end": 6
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "胡瓜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 8,
+        "end": 4
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "扁蒲",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "豌豆",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 9,
+        "end": 4
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "甜椒",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "辣椒",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "番茄",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "梨瓜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "菜豆",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 12,
+        "end": 4
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "南瓜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 10,
+        "end": 5
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "甘藍",
+    "alias": ["高麗菜"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "結球白菜",
+    "alias": ["大白菜"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 8,
+        "end": 4
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "結球萵苣",
+    "alias": ["西生菜"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 11,
+        "end": 3
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "菠菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 11,
+        "end": 3
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "芥菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 2
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "小白菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "蕹菜",
+    "alias": ["空心菜"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "青江白菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "油菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "小芥菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "山蘇",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "葉萵苣",
+    "alias": ["生菜"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "龍鬚菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "過溝菜蕨",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "芥藍",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "茼蒿",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 10,
+        "end": 3
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "芹菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 10,
+        "end": 6
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "青蔥",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "洋蔥",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 9
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "蘿蔔",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 8,
+        "end": 4
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "胡蘿蔔",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 12,
+        "end": 10
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "馬鈴薯",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 8
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "韭菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "芋",
+    "alias": ["芋頭"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 4,
+        "end": 6
+      },
+      {
+        "start": 8,
+        "end": 2
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "球莖甘藍",
+    "alias": ["苤藍"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 10,
+        "end": 2
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "甘藷",
+    "alias": ["蕃薯", "地瓜"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "香菇",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "金針菇",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "杏鮑菇",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 11
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "毛豆",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 2,
+        "end": 11
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "大蒜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 2,
+        "end": 4
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "苦瓜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 3,
+        "end": 11
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "絲瓜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 3,
+        "end": 11
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "茄子",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 3,
+        "end": 11
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "長豇（菜）豆",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 3,
+        "end": 10
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "越瓜",
+    "alias": ["菜瓜"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 3,
+        "end": 11
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "葉用甘藷",
+    "alias": ["蕃薯葉", "地瓜葉"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 3,
+        "end": 11
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "茭白筍",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 3,
+        "end": 11
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "牛蒡",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 3,
+        "end": 3
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "金針",
+    "alias": ["金針花"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 4,
+        "end": 6
+      },
+      {
+        "start": 8,
+        "end": 10
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "莧菜",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 4,
+        "end": 10
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "桂竹筍",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 4,
+        "end": 5
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "蘆筍",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 4,
+        "end": 6
+      },
+      {
+        "start": 8,
+        "end": 8
+      },
+      {
+        "start": 10,
+        "end": 11
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "綠竹筍",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 5,
+        "end": 10
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "箭竹筍",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 5,
+        "end": 10
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "麻竹筍",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 6,
+        "end": 10
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "蓮藕",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 6,
+        "end": 9
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "菱角",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 9,
+        "end": 11
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "杏鮑",
+    "alias": ["杏鮑菇"],
+    "summary": "",
+    "periods": [
+      {
+        "start": 12,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  }
+]
