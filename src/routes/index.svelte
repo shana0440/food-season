@@ -122,8 +122,14 @@
   </Button>
 </section>
 
-<section class="grid grid-cols-2 gap-2">
-  {#each foodsToDisplay as fruit}
-    <Card item={fruit} />
-  {/each}
-</section>
+{#if foodsToDisplay.length}
+  <section class="grid grid-cols-2 gap-2">
+    {#each foodsToDisplay as fruit}
+      <Card item={fruit} />
+    {/each}
+  </section>
+{:else}
+  <section>
+    <p class="text-gray-400 text-center">沒有任何項目可以顯示</p>
+  </section>
+{/if}
