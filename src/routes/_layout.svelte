@@ -5,7 +5,7 @@
   <title>Food in Season</title>
 </svelte:head>
 
-<main class="container mx-auto">
+<main class="container mx-auto app">
   <slot />
 </main>
 
@@ -13,4 +13,10 @@
   @tailwind base;
   @tailwind components;
   @tailwind utilities;
+
+  @screen lg {
+    .app {
+      width: 960px;
+    }
+  }
 </style>

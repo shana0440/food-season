@@ -23,9 +23,7 @@
   };
 </script>
 
-<h1>Food in Season</h1>
-
-<section class="mb-2">
+<section class="my-2 text-center">
   <button class="btn" on:click={handleSelectMonth(null)}>全部</button>
   <button class="btn" on:click={handleSelectMonth(1)}>1月</button>
   <button class="btn" on:click={handleSelectMonth(2)}>2月</button>
