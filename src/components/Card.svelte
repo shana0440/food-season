@@ -29,7 +29,7 @@
       </p>
     {/if}
   </div>
-  <div class="mb-2">盛產期：{formatInSeasonPeriods(item.periods)}</div>
+  <div class="mb-2">產季：{formatInSeasonPeriods(item.periods)}</div>
   <div class="flex">
     {#if item.image}
       <img
