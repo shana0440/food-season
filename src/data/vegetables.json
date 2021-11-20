@@ -28,6 +28,20 @@
     "href": ""
   },
   {
+    "name": "西瓜",
+    "alias": [],
+    "summary": "香甜多汁，被稱為「夏季瓜果之王」",
+    "periods": [
+      {
+        "start": 3,
+        "end": 11
+      }
+    ],
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_watermelon.jpg",
+    "description": "西瓜香甜多汁，消暑解渴，被稱為「夏季瓜果之王」。水分含量佔西瓜整體約94%，不含脂肪和膽固醇，卻具備許多人體所需的營養素。傳統中醫認為西瓜味甘、性寒，助於解暑、止渴、開胃、利尿等。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Watermelon"
+  },
+  {
     "name": "甜瓜",
     "alias": [],
     "summary": "",
@@ -114,16 +128,16 @@
   {
     "name": "番茄",
     "alias": [],
-    "summary": "",
+    "summary": "特有的茄紅素，具有獨特的抗氧化能力",
     "periods": [
       {
         "start": 1,
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_tomato.jpg",
+    "description": "番茄最早來自南美洲的安地斯山區，來到台灣之後非常適合中南部低海拔的氣候，因此台南、高雄、屏東是主要產區，夏季則是中部山區的南投為主。因為產區的調整，雖然番茄的盛產期在冬天，但全年都有不同品種的番茄可享用。",
+    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Tomato"
   },
   {
     "name": "梨瓜",

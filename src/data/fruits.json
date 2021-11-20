@@ -14,27 +14,13 @@
     "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Plum"
   },
   {
-    "name": "西瓜",
-    "alias": [],
-    "summary": "香甜多汁，被稱為「夏季瓜果之王」",
-    "periods": [
-      {
-        "start": 4,
-        "end": 8
-      }
-    ],
-    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_watermelon.jpg",
-    "description": "西瓜香甜多汁，消暑解渴，被稱為「夏季瓜果之王」。水分含量佔西瓜整體約94%，不含脂肪和膽固醇，卻具備許多人體所需的營養素。傳統中醫認為西瓜味甘、性寒，助於解暑、止渴、開胃、利尿等。",
-    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Watermelon"
-  },
-  {
     "name": "李子",
     "alias": [],
     "summary": "豐富的氨基酸、維生素B12等營養成份",
     "periods": [
       {
-        "start": 5,
-        "end": 8
+        "start": 3,
+        "end": 7
       }
     ],
     "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_plumlee.jpg",
@@ -47,8 +33,8 @@
     "summary": "富含大量的維生素C，抗氧化及美膚",
     "periods": [
       {
-        "start": 5,
-        "end": 9
+        "start": 6,
+        "end": 8
       }
     ],
     "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_mango.jpg",
@@ -89,8 +75,8 @@
     "summary": "原生自中國南方的亞熱帶水果",
     "periods": [
       {
-        "start": 5,
-        "end": 8
+        "start": 6,
+        "end": 7
       }
     ],
     "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_litchi.jpg",
@@ -131,7 +117,7 @@
     "summary": "果皮光澤具彈性、絨毛綿密，果實飽滿",
     "periods": [
       {
-        "start": 4,
+        "start": 3,
         "end": 8
       }
     ],
@@ -145,8 +131,8 @@
     "summary": "含水量達89%，是優質的天然飲料",
     "periods": [
       {
-        "start": 6,
-        "end": 9
+        "start": 5,
+        "end": 1
       }
     ],
     "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_pear.jpg",
@@ -159,12 +145,8 @@
     "summary": "營養豐富，含有多種礦物質",
     "periods": [
       {
-        "start": 6,
-        "end": 8
-      },
-      {
-        "start": 10,
-        "end": 12
+        "start": 4,
+        "end": 1
       }
     ],
     "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_grape.jpg",
@@ -205,7 +187,7 @@
     "summary": "皮薄柔軟多汁，清爽甜中帶酸",
     "periods": [
       {
-        "start": 9,
+        "start": 8,
         "end": 10
       }
     ],
@@ -219,7 +201,7 @@
     "summary": "有極高的營養價值，可補充養分",
     "periods": [
       {
-        "start": 10,
+        "start": 9,
         "end": 12
       }
     ],
@@ -284,20 +266,6 @@
     "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Orange"
   },
   {
-    "name": "番茄",
-    "alias": [],
-    "summary": "特有的茄紅素，具有獨特的抗氧化能力",
-    "periods": [
-      {
-        "start": 12,
-        "end": 4
-      }
-    ],
-    "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_tomato.jpg",
-    "description": "番茄最早來自南美洲的安地斯山區，來到台灣之後非常適合中南部低海拔的氣候，因此台南、高雄、屏東是主要產區，夏季則是中部山區的南投為主。因為產區的調整，雖然番茄的盛產期在冬天，但全年都有不同品種的番茄可享用。",
-    "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Tomato"
-  },
-  {
     "name": "蜜棗",
     "alias": [],
     "summary": "印度棗俗稱棗子、蜜棗，外形如青蘋果",
@@ -317,7 +285,7 @@
     "summary": "富有豐富礦物質，可預防感冒、幫助消化",
     "periods": [
       {
-        "start": 1,
+        "start": 5,
         "end": 12
       }
     ],
@@ -331,8 +299,8 @@
     "summary": "果肉中的酵素能解油膩、助消化、降血壓",
     "periods": [
       {
-        "start": 1,
-        "end": 12
+        "start": 3,
+        "end": 9
       }
     ],
     "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_pineapple.jpg",
@@ -345,12 +313,8 @@
     "summary": "風味獨特的水果，老少皆宜",
     "periods": [
       {
-        "start": 5,
-        "end": 7
-      },
-      {
-        "start": 11,
-        "end": 3
+        "start": 12,
+        "end": 5
       }
     ],
     "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_bellfruit.jpg",
@@ -363,12 +327,104 @@
     "summary": "果肉為乳白色，口感綿密細膩",
     "periods": [
       {
-        "start": 8,
-        "end": 3
+        "start": 1,
+        "end": 4
+      },
+      {
+        "start": 7,
+        "end": 9
+      },
+      {
+        "start": 11,
+        "end": 12
       }
     ],
     "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_custardapple.jpg",
     "description": "釋迦內含豐富維生素C、蛋白質、鐵、鉀、鈣、磷等，助於調節血壓、促進腸胃蠕動。對於未患有糖尿病，牙齒不好且高血壓的長者來說，釋迦是良好的營養補充食物。",
     "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Custardapple"
+  },
+  {
+    "name": "番石榴",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "香蕉",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 12
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "桶柑",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 1,
+        "end": 4
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "柳橙",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 10,
+        "end": 2
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "椪柑",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 10,
+        "end": 1
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
+  },
+  {
+    "name": "棗",
+    "alias": [],
+    "summary": "",
+    "periods": [
+      {
+        "start": 12,
+        "end": 2
+      }
+    ],
+    "image": "",
+    "description": "",
+    "href": ""
   }
 ]
