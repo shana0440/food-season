@@ -16,6 +16,10 @@
       })
       .join(", ");
   };
+
+  const formatAlias = (alias) => {
+    return `( ${alias.join(", ")} )`;
+  };
 </script>
 
 <div
@@ -23,10 +27,8 @@
 >
   <div class="flex mb-2">
     <h2 class="title">{item.name}</h2>
-    {#if item.summary}
-      <p class="summary">
-        {item.summary}
-      </p>
+    {#if item.alias.length}
+      <h2 class="text-gray-400">{formatAlias(item.alias)}</h2>
     {/if}
   </div>
   <div class="mb-2">產季：{formatInSeasonPeriods(item.periods)}</div>
@@ -53,10 +55,6 @@
     @apply font-semibold mr-2;
   }
 
-  .summary {
-    @apply px-2 font-semibold text-white rounded-md;
-  }
-
   .link {
     @apply px-3 py-1 border-2 rounded-lg font-semibold float-right;
   }
@@ -64,18 +62,12 @@
   .fruit .title {
     @apply text-red-400;
   }
-  .fruit .summary {
-    @apply bg-red-400;
-  }
   .fruit .link {
     @apply text-red-400 border-red-400;
   }
 
   .vegetable .title {
     @apply text-green-600;
-  }
-  .vegetable .summary {
-    @apply bg-green-600;
   }
   .vegetable .link {
     @apply text-green-600 border-green-600;

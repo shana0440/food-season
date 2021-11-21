@@ -2,7 +2,6 @@
   {
     "name": "梅子",
     "alias": [],
-    "summary": "風味以清酸稱絕，滿口生津而別有風味",
     "periods": [
       {
         "start": 4,
@@ -16,7 +15,6 @@
   {
     "name": "李子",
     "alias": [],
-    "summary": "豐富的氨基酸、維生素B12等營養成份",
     "periods": [
       {
         "start": 3,
@@ -30,7 +28,6 @@
   {
     "name": "芒果",
     "alias": [],
-    "summary": "富含大量的維生素C，抗氧化及美膚",
     "periods": [
       {
         "start": 6,
@@ -44,7 +41,6 @@
   {
     "name": "枇杷",
     "alias": [],
-    "summary": "果肉酸甜適中，柔軟多汁",
     "periods": [
       {
         "start": 3,
@@ -58,7 +54,6 @@
   {
     "name": "草莓",
     "alias": [],
-    "summary": "擁有豐富的維生素C",
     "periods": [
       {
         "start": 12,
@@ -72,7 +67,6 @@
   {
     "name": "荔枝",
     "alias": [],
-    "summary": "原生自中國南方的亞熱帶水果",
     "periods": [
       {
         "start": 6,
@@ -86,7 +80,6 @@
   {
     "name": "紅龍果",
     "alias": [],
-    "summary": "果肉味甜多汁，果香四溢",
     "periods": [
       {
         "start": 6,
@@ -100,7 +93,6 @@
   {
     "name": "百香果",
     "alias": [],
-    "summary": "紫紅色外皮、果香酸甜好滋味",
     "periods": [
       {
         "start": 7,
@@ -114,7 +106,6 @@
   {
     "name": "桃子",
     "alias": [],
-    "summary": "果皮光澤具彈性、絨毛綿密，果實飽滿",
     "periods": [
       {
         "start": 3,
@@ -128,7 +119,6 @@
   {
     "name": "梨子",
     "alias": [],
-    "summary": "含水量達89%，是優質的天然飲料",
     "periods": [
       {
         "start": 5,
@@ -142,7 +132,6 @@
   {
     "name": "葡萄",
     "alias": [],
-    "summary": "營養豐富，含有多種礦物質",
     "periods": [
       {
         "start": 4,
@@ -156,7 +145,6 @@
   {
     "name": "酪梨",
     "alias": [],
-    "summary": "果肉的口感柔軟，口味有核仁味",
     "periods": [
       {
         "start": 7,
@@ -170,7 +158,6 @@
   {
     "name": "龍眼",
     "alias": [],
-    "summary": "色澤晶瑩、肉質鮮嫩、甜美爽口",
     "periods": [
       {
         "start": 7,
@@ -184,7 +171,6 @@
   {
     "name": "文旦柚",
     "alias": [],
-    "summary": "皮薄柔軟多汁，清爽甜中帶酸",
     "periods": [
       {
         "start": 8,
@@ -198,7 +184,6 @@
   {
     "name": "柿子",
     "alias": [],
-    "summary": "有極高的營養價值，可補充養分",
     "periods": [
       {
         "start": 9,
@@ -212,7 +197,6 @@
   {
     "name": "洛神",
     "alias": [],
-    "summary": "艷麗火紅，像極了一顆顆的紅寶石",
     "periods": [
       {
         "start": 9,
@@ -226,7 +210,6 @@
   {
     "name": "金棗",
     "alias": ["金柑"],
-    "summary": "金棗不是棗，原名是「金柑」",
     "periods": [
       {
         "start": 12,
@@ -240,7 +223,6 @@
   {
     "name": "柑橘",
     "alias": ["椪柑", "桶柑"],
-    "summary": "秋末冬初正是臺灣柑橘成熟季節",
     "periods": [
       {
         "start": 11,
@@ -254,7 +236,6 @@
   {
     "name": "柳丁",
     "alias": ["柳橙"],
-    "summary": "好種植的水果，對環境適應性極強",
     "periods": [
       {
         "start": 10,
@@ -268,7 +249,6 @@
   {
     "name": "蜜棗",
     "alias": ["棗"],
-    "summary": "印度棗俗稱棗子、蜜棗，外形如青蘋果",
     "periods": [
       {
         "start": 12,
@@ -282,7 +262,6 @@
   {
     "name": "木瓜",
     "alias": [],
-    "summary": "富有豐富礦物質，可預防感冒、幫助消化",
     "periods": [
       {
         "start": 5,
@@ -296,7 +275,6 @@
   {
     "name": "鳳梨",
     "alias": [],
-    "summary": "果肉中的酵素能解油膩、助消化、降血壓",
     "periods": [
       {
         "start": 3,
@@ -310,7 +288,6 @@
   {
     "name": "蓮霧",
     "alias": [],
-    "summary": "風味獨特的水果，老少皆宜",
     "periods": [
       {
         "start": 12,
@@ -324,7 +301,6 @@
   {
     "name": "釋迦",
     "alias": [],
-    "summary": "果肉為乳白色，口感綿密細膩",
     "periods": [
       {
         "start": 7,
@@ -342,7 +318,6 @@
   {
     "name": "番石榴",
     "alias": ["芭樂"],
-    "summary": "",
     "periods": [
       {
         "start": 1,
@@ -356,7 +331,6 @@
   {
     "name": "香蕉",
     "alias": [],
-    "summary": "",
     "periods": [
       {
         "start": 1,
@@ -370,7 +344,6 @@
   {
     "name": "桶柑",
     "alias": [],
-    "summary": "",
     "periods": [
       {
         "start": 1,
@@ -384,7 +357,6 @@
   {
     "name": "椪柑",
     "alias": [],
-    "summary": "",
     "periods": [
       {
         "start": 10,
