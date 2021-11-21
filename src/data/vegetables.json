@@ -9,13 +9,13 @@
         "end": 4
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/91/img_0761_m.jpg",
+    "description": "含有蛋白質、脂質、醣質、纖維質、灰質、鈣、磷、鐵、維生素A、維生素B1、維生素B2、維生素C等營養成分。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=91"
   },
   {
     "name": "青花菜",
-    "alias": [],
+    "alias": ["西蘭花", "綠花菜"],
     "summary": "",
     "periods": [
       {
@@ -23,9 +23,9 @@
         "end": 4
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/139/dscf0503_m.jpg",
+    "description": "因花苔小巧討喜別稱青花苔，不僅適合小家庭一餐食用，且於甜度達到最高點時採收，品質與口感最佳，採收後隨即放進冷藏庫預冷，將青花苔甜分索住，採買後可置冰箱一星期花苔不變，不管涼拌或清炒口感極佳。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=139"
   },
   {
     "name": "西瓜",
@@ -42,8 +42,8 @@
     "href": "https://ezgo.coa.gov.tw/Fruit/TW/Seasonfruits_Watermelon"
   },
   {
-    "name": "甜瓜",
-    "alias": [],
+    "name": "洋香瓜",
+    "alias": ["澎湖瓜", "哈密瓜", "美濃瓜"],
     "summary": "",
     "periods": [
       {
@@ -51,13 +51,13 @@
         "end": 6
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/5/img_9371_m.jpg",
+    "description": "營養成分：蛋白質、脂肪、糖、鈣、鐵、維生素C、維生素A\n挑選方式：蒂頭及臍的部份較開展；輕搖哈密瓜及香瓜有聲音時，品質較不佳；外觀的紋路明顯開展，且分佈均勻；選擇硬度高的",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=5"
   },
   {
     "name": "胡瓜",
-    "alias": [],
+    "alias": ["大黃瓜"],
     "summary": "",
     "periods": [
       {
@@ -65,13 +65,13 @@
         "end": 4
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/158/img_0785_m.jpg",
+    "description": "胡瓜一年四季都有生產，屏東產期在冬季，遍植於裡港、高樹、九如、鹽埔等屏北地區約1200公頃，佔全國產量之50%，因光照強度是胡瓜生長極重要的要素，因此冬季時屏北地區即為全國胡瓜主要的產地。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=158"
   },
   {
     "name": "扁蒲",
-    "alias": [],
+    "alias": ["葫蘆"],
     "summary": "",
     "periods": [
       {
@@ -79,9 +79,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/86/dscf0799_m.jpg",
+    "description": "扁蒲為一年生蔓本，原產非洲和印度。我國栽培歷史悠久，早在西元紀年前已有栽培記錄，分佈甚廣。 扁蒲依果形可分四類，果長形稱瓠，圓形稱為匏，扁型稱扁蒲，二端粗而中間細稱葫蘆。閩南許將前三種統稱「蒲仔」，最後一種稱為「葫蘆蒲」。臺灣各地僅有零星栽培扁蒲，面積不多，但利用扁蒲作西瓜砧木甚為普遍。按照果實的形狀可分為四大類：1.長形的果實稱為瓠。2.圓的果實稱匏。3.扁圓形帶有短頸的球形的稱「扁蒲」。4.上下粗而中間細的稱「葫蘆」。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=86"
   },
   {
     "name": "豌豆",
@@ -93,9 +93,9 @@
         "end": 4
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/177/_dsc4077_m.jpg",
+    "description": "豌豆在台灣很多人叫它「荷蘭豆」，主要是荷蘭人佔據台灣時，由歐洲引進栽種因而得名。又因其幼苗柔弱婉約狀，故名為豌(ㄨㄢ)豆。豌豆可食用部份包括：豌豆莢、豌豆仁、豌豆嫩苗等。豌豆仁也可作成罐頭。莖葉也可作為綠肥或是飼料。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=177"
   },
   {
     "name": "甜椒",
@@ -107,9 +107,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/41/img_8813_m.jpg",
+    "description": "甜椒之所以被稱之為「青椒」，是因為我們所食用之甜椒是於幼果期即採收，而多數甜椒品種於幼果期均呈綠色之故。一般幼果期之甜椒均具有特殊之莘味，較適於炒食或炸成蔬菜天婦羅。由於甜椒果實成熟後果色可由綠色轉變為紅色或黃色、橙色、巧克力色、橘紅色等多種色彩，而被溺稱為〝彩色甜椒〞，其除富於色彩之變化外，由於果實成熟後養份更為提高，尤以醣類之提升不但使甜椒椒更名符其實，且去除了原幼果期時之莘味，使更適於供做生鮮食用，成為絕佳之生菜沙拉蔬菜，而其美豔之色彩更符合中國人「色、香、味」之美食哲學，為一極具發展潛力之新興作物。 甜椒之成熟果其除營養成份提高之外，更因糖度之累積使其食味清甜而少了嫩果時之腥味，極適於鮮食",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=41"
   },
   {
     "name": "辣椒",
@@ -121,9 +121,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/14/img_0682_m.jpg",
+    "description": "特性：刺鼻香氣、麻辣、入喉有勁\n營養成分：維生素C、維生素A、菸酸、鉀、纖維、蛋白質\n挑選方式：可依個人口味挑選辣度不同的品種",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=14"
   },
   {
     "name": "番茄",
@@ -141,7 +141,7 @@
   },
   {
     "name": "梨瓜",
-    "alias": [],
+    "alias": ["佛手瓜"],
     "summary": "",
     "periods": [
       {
@@ -149,9 +149,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/plant_illustration/347/plant2013_2037_89_m.jpg",
+    "description": "佛手瓜四季均可播種，但以10月至隔年4月較適宜，尤以3-4月為佳，夏季高溫播種成活率低。種子由果實內剝離，需去掉種皮，可提高發芽出苗率。 播種方法有兩種： 一是整顆種瓜直播。選老熟瓜提前1個月催芽--將種瓜放於沙床，使其一半埋入沙中，每天早晚各澆水1次，直至幼芽長出。 二是採取分株繁殖。4月上旬將老株挖開露出塊根，切下約帶2-3個芽之50克塊根。種植前清除雜草，然後按行距4-6公尺，株距4-5公尺挖穴，穴直徑45-50公分，深40-50公分。穴底施入腐熟堆肥作基肥，再鋪上20-50公斤乾淨肥沃的土壤，防種瓜或分株苗的塊根直接接觸肥料造成根腐和肥害。每穴播一個種瓜或一塊塊根，播種時將已萌芽的種瓜平放或直放入土中，子芽部位朝上，下種後覆土6-10公分，以不見種瓜為原則。 分株苗要讓幼芽露出土面1-1.5公分，防止深埋引起幼芽腐爛造成缺苗。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=plant_illustration&id=347"
   },
   {
     "name": "菜豆",
@@ -177,9 +177,9 @@
         "end": 5
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/83/img_0777_m.jpg",
+    "description": "特性：果實、嫩葉、嫩莖均可熟食，香甜柔潤，富含維生A及B群，種子炒食鮮脆可口。形貌依品種而異。\n營養成分：水分、蛋白質、脂肪、醣類、維他命Ａ、磷、鈣、鈉",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=83"
   },
   {
     "name": "甘藍",
@@ -191,9 +191,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/71/dscf0639_m.jpg",
+    "description": "子葉呈腎形，本葉呈卵圓或橢圓形，葉緣有鋸齒，營養生長莖短縮，其上生多數葉片，互相抱合，形成頭狀之球，稱為葉球，為主要食用部份。葉片有光滑與皺縮二種，球形有扁圓、圓及尖形等。花莖上所生的葉片稱為莖生葉，莖生葉較小，先端較尖，基部闊，葉柄短或無。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=71"
   },
   {
     "name": "結球白菜",
@@ -205,9 +205,9 @@
         "end": 4
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/174/(4)_dsc4282_m.jpg",
+    "description": "結球白菜品種很多，目前就台灣市場上較常見到的有分為三類： 1.包心白菜：是結球最緊密的品系，常為圓球形。因為菜球較小，突顯葉柄葉肋特別發達，葉片反而少了一些，口感嫩脆，適合清炒。 2.山東白菜：是最大型的結球白菜，呈長橢圓型，當令時一顆可達十幾公斤，纖維較粗，久煮不爛，適合放在火鍋烹煮，或是醃漬泡菜。 3.天津白菜：呈長條型，纖維較粗、口感較硬，常加工製作成冬菜",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=174"
   },
   {
     "name": "結球萵苣",
@@ -220,8 +220,8 @@
       }
     ],
     "image": "",
-    "description": "",
-    "href": ""
+    "description": "營養成分：蛋白質、脂肪、醣類、維生素A、維生素B1、維生素B2、維生素C、鐵、磷、鈣、鎂、矽、硫。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=34"
   },
   {
     "name": "菠菜",
@@ -233,9 +233,9 @@
         "end": 3
       }
     ],
-    "image": "",
+    "image": "https://kmweb.coa.gov.tw/files/city_farming/98/712271584271_m.jpg",
     "description": "",
-    "href": ""
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=city_farming&id=98"
   },
   {
     "name": "芥菜",
@@ -247,9 +247,9 @@
         "end": 2
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/42/_dsc1315_m.jpg",
+    "description": "屬於較涼冷的蔬菜，入口帶苦，但吃後卻有甘美的味道，頗有苦盡甘來的味道，因具有久煮不黃的特性，料理上大多與雞、鴨一同烹煮，藉此吸收釋放出來的油脂以增加美味。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=42"
   },
   {
     "name": "小白菜",
@@ -261,9 +261,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/166/_dsc4297_m.jpg",
+    "description": "傳統中醫認為小白菜味甘、性平，可解熱除煩，利腸胃。另外小白菜的鈣質含量與牛奶幾乎相同，且本身即有豐富的維生素C能促進鈣質的吸收，是良好的鈣質來源之一。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=166"
   },
   {
     "name": "蕹菜",
@@ -275,9 +275,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/11/dscf0596_m.jpg",
+    "description": "一年生濕生、蔓狀草本，無毛。莖中空，節上生不定根。單葉互生；具長柄；葉片矩圓狀卵形或橢圓狀矩圓形，先端尖或鈍，基部截頭形，心形或戟形，邊全緣或波狀。秋季開花；花序梗腋生；萼綠色，卵形，先端鈍；花冠白色或紫色。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=11"
   },
   {
     "name": "青江白菜",
@@ -303,9 +303,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/16/A01_1_m.jpg",
+    "description": "油菜質地鮮嫩、色美，適於拌、燒、炒、泡、醃，也可切絲過油成菜鬆，在拼接冷盤時作配料用。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=16"
   },
   {
     "name": "小芥菜",
@@ -331,9 +331,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/36/_dsc1868_m.jpg",
+    "description": "營養成分：水、粗蛋白、粗纖維、維生素C、鈣、鐵、鋅",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=36"
   },
   {
     "name": "葉萵苣",
@@ -345,9 +345,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/34/(5)_dsc4890_m.jpg",
+    "description": "蛋白質、脂肪、醣類、維生素A、維生素B1、維生素B2、維生素C、鐵、磷、鈣、鎂、矽、硫。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=34"
   },
   {
     "name": "龍鬚菜",
@@ -359,9 +359,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/40/img_8911_m.jpg",
+    "description": "龍鬚菜是一種物美價廉的農作物。其嫩部分食用，發現味美可口，味道勝過果實，而嫩芽部分狀似龍鬚。龍鬚菜不需要使用農藥來防治病蟲害，可以安心食用，而且它本身含有非常豐富的葉綠素，纖維質也很高，多食用可助消化，有利身體健康。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=40"
   },
   {
     "name": "過溝菜蕨",
@@ -387,9 +387,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/167/(3)_dsc4436_m.jpg",
+    "description": "芥藍富含維他命A、B、C及鈣、鐵等礦物質。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=167"
   },
   {
     "name": "茼蒿",
@@ -401,9 +401,9 @@
         "end": 3
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/172/(5)img_8937_m.jpg",
+    "description": "茼蒿不是重要的蔬菜，但卻是在冬天火鍋上少不了的蔬菜。日本人在日春時節採食故名為春菊。茼蒿「青味」較重，有人喜歡該特殊味道，但也有人就不喜歡該味道。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=172"
   },
   {
     "name": "芹菜",
@@ -415,9 +415,9 @@
         "end": 6
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/168/(4)_dsc4067_m.jpg",
+    "description": "在來種的山芹菜香味較濃，主要用來炒煮或是當調味菜使用，西洋種(又稱美國芹菜)的香味稍淡，葉柄肥胖，生食為主。芹菜全株具有芬香味，是因含有很高的鈣及磷之故",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=168"
   },
   {
     "name": "青蔥",
@@ -429,9 +429,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/13/img_2116_m.jpg",
+    "description": "常用在日常食物調味上。來自硫化物的強烈蔥屬特色氣味是蔥屬植物廣泛具有的特質",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=13"
   },
   {
     "name": "洋蔥",
@@ -443,9 +443,9 @@
         "end": 9
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/151/dscf0630_m.jpg",
+    "description": "林園鄉種植洋蔥農地面積約 50多公頃，在南台灣僅次於屏東縣，採收期從1月底至3月初，比屏東車城地區採收季更早，在市場供需佔有優勢，洋蔥經乾燥處理後，室溫可貯藏1至2個月",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=151"
   },
   {
     "name": "蘿蔔",
@@ -457,9 +457,9 @@
         "end": 4
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/95/_dsc2084_m.jpg",
+    "description": "營養成分：水分、蛋白質、脂肪、碳水化合物、粗纖維、鈣、磷、鐵、胡蘿蔔素、硫胺素、核黃素、尼克酸、抗壞血酸\n挑選方式：選購時以表皮光滑，有重量感，以手指彈擊聲音清脆者為佳。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=95"
   },
   {
     "name": "胡蘿蔔",
@@ -471,9 +471,9 @@
         "end": 10
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/114/img_5129_m.jpg",
+    "description": "適合炒、滷、拌、煮、燉，是色澤美麗、營養豐富的烹調配角",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=114"
   },
   {
     "name": "馬鈴薯",
@@ -485,9 +485,9 @@
         "end": 8
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/126/img_0782_m.jpg",
+    "description": "下營鄉所產馬鈴薯是二期稻作結束後至一期稻作種植之間的冬季作物，質地柔軟香Q。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=126"
   },
   {
     "name": "韭菜",
@@ -499,9 +499,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/12/dscf0535_m.jpg",
+    "description": "購買韭菜以新鮮採收為佳，若置久莖葉枯軟黃化即盡失鮮美風味。韭菜花以肥嫩為上等品質，用手折取一小段，若切口纖維多而非一折即斷，表示已老化，品質為劣。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=12"
   },
   {
     "name": "芋",
@@ -517,9 +517,9 @@
         "end": 2
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/43/_dsc1365_m.jpg",
+    "description": "購買芋頭的時候，建議你最好拿在手中，用手指輕壓看看。如果壓起來感覺鬆軟的話，通常就是放置過久開始纖維化的徵兆喔！這時候如果把芋頭切開來，就會看到一絲絲咖啡色的纖維出現。芋頭的口感和風味當然就因此大打折扣了。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=43"
   },
   {
     "name": "球莖甘藍",
@@ -531,9 +531,9 @@
         "end": 2
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/175/_dsc4287_m.jpg",
+    "description": "購買時以球莖形體端正、莖皮有粉質狀，葉梗附著於莖上未脫落，心葉新鮮不枯焦、無病蟲害者為佳。若是莖球上的葉梗是自然脫落，有凹陷部位，則為成熟老化，莖肉必粗糙久煮不爛，食之乏味。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=175"
   },
   {
     "name": "甘藷",
@@ -545,9 +545,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/84/img_1741_m.jpg",
+    "description": "甘藷含大量的澱粉質及纖維質，鬆軟易消化，可促進胃腸乳蠕動，增加排洩順暢，預防便秘，對於經常食用精製食物的現代文明人極有益健康。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=84"
   },
   {
     "name": "香菇",
@@ -559,9 +559,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/3/(3)_dsc3667_m.jpg",
+    "description": "營養成分：碳水化合物、蛋白質、脂肪、鈣、磷、鐵、維生素B1、維生素B2、維生素C、30多種?和人體所需的氨基酸",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=3"
   },
   {
     "name": "金針菇",
@@ -587,9 +587,9 @@
         "end": 11
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/143/dscf0659_m.jpg",
+    "description": "杏鮑菇（鮑魚菇）的一種，是所有鮑魚菇中風味最佳的菇品，以質地細膩脆嫩，口感似鮑魚，並有杏仁香味，因而得名「杏仁鮑魚菇」，簡稱杏鮑菇。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=143"
   },
   {
     "name": "毛豆",
@@ -601,9 +601,9 @@
         "end": 11
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/154/_dsc2538_m.jpg",
+    "description": "含有豐富的異黃酮類與皂素，是天然且營養均衡的健康食品。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=154"
   },
   {
     "name": "大蒜",
@@ -615,9 +615,9 @@
         "end": 4
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/10/p6251763_m.jpg",
+    "description": "營養成分：水、蛋白質、脂肪、醣纇、無機鹽、粗纖維、維生素A、維生素Ｂ群、維生素C、菸鹼酸、硫、磷、鐵、大蒜辣素",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=10"
   },
   {
     "name": "苦瓜",
@@ -629,9 +629,9 @@
         "end": 11
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/44/dscf0820_m.jpg",
+    "description": "苦瓜含苦瓜素，故帶有苦味，煮後轉成苦甘味，有促進食慾、解渴、清涼、解毒及軀寒之效用。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=44"
   },
   {
     "name": "絲瓜",
@@ -643,9 +643,9 @@
         "end": 11
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/133/dscf0633_m.jpg",
+    "description": "絲瓜吃起來要內質柔嫩細膩者為佳，所以在果實尚未充分肥大，果皮尚未硬化、纖維尚未發達、果實尚未粗老前就得採收，採收過晚就會影響品質。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=133"
   },
   {
     "name": "茄子",
@@ -657,13 +657,13 @@
         "end": 11
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/153/dscf0523_m.jpg",
+    "description": "茄子原產地在東南亞、印度，在1700年前傳入中國，台灣地區的茄子是由早期先民由華南地區引入，因其性喜溫暖及潮濕，故盛產於中南部地區。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=153"
   },
   {
     "name": "長豇（菜）豆",
-    "alias": [],
+    "alias": ["菜豆"],
     "summary": "",
     "periods": [
       {
@@ -671,9 +671,9 @@
         "end": 10
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/169/_dsc4539_m.jpg",
+    "description": "長豇豆在臺灣被稱為菜豆，故容易與俗稱敏豆之菜豆混淆不清，長豇豆主要以嫩莢供食，除作鮮菜外，亦適於製作豆莢干或冷凍加工。豇豆成熟時果莢發育快速，開始採收後幾乎每隔1～2天便要採收1次。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=169"
   },
   {
     "name": "越瓜",
@@ -685,9 +685,9 @@
         "end": 11
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/145/A01_1_m.jpg",
+    "description": "長的很像大黃瓜.但其實是不同的喔，是臺灣很普遍的醃漬小菜，小時後外婆在住家頂樓醃滿滿一片，早餐吃稀飯的時候常拌著吃，傳統市場也常買的到，台北一公斤約115元，是有季節性的植物.冬天不產。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=145"
   },
   {
     "name": "葉用甘藷",
@@ -713,9 +713,9 @@
         "end": 11
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/171/_dsc4431_m.jpg",
+    "description": "茭白筍食用部位為肥大的肉質莖是由於黑穗菌的寄生與刺激，形成莖部膨大形成顏色潔白，質軟味美的筍狀嫩莖。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=171"
   },
   {
     "name": "牛蒡",
@@ -727,9 +727,9 @@
         "end": 3
       }
     ],
-    "image": "",
+    "image": "https://kmweb.coa.gov.tw/files/production_map/115/img_8775_m.jpg",
     "description": "",
-    "href": ""
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=115"
   },
   {
     "name": "金針",
@@ -745,9 +745,9 @@
         "end": 10
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/39/A01_1_m.jpg",
+    "description": "含硫量低的金針，顏色較深，尖端是暗褐色，聞一聞金針的味道，有沒有硫化物的藥水殘留味，比較天然的金針，還有花香味。金針的觸感，應該是乾乾的，而不是黏稠的。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=39"
   },
   {
     "name": "莧菜",
@@ -759,9 +759,9 @@
         "end": 10
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/173/_dsc4296_m.jpg",
+    "description": "富含蛋白質、脂肪、醣類及多種維生素和礦物質，其中蛋白質比牛奶更能被人體吸收。胡蘿蔔素比茄果類高出兩倍。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=173"
   },
   {
     "name": "桂竹筍",
@@ -773,9 +773,9 @@
         "end": 5
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/98/8k7a8123_m.jpg",
+    "description": "桂竹筍在採收的時候，要選擇長度大約在三十公分左右的筍子，在底部輕輕一折，桂竹筍就很容易可以採收下來了。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=98"
   },
   {
     "name": "蘆筍",
@@ -795,9 +795,9 @@
         "end": 11
       }
     ],
-    "image": "",
+    "image": "https://kmweb.coa.gov.tw/files/production_map/122/dscf0604_m.jpg",
     "description": "",
-    "href": ""
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=122"
   },
   {
     "name": "綠竹筍",
@@ -809,9 +809,9 @@
         "end": 10
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/35/_dsc1955_m.jpg",
+    "description": "選擇矮胖短形、筍基直徑寬，外觀呈牛角彎區狀，筍尖無出青，外表顏色均勻，略帶金黃色者，筍基纖維細嫩無纖維化現象，新鮮現採即為上筍。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=35"
   },
   {
     "name": "箭竹筍",
@@ -823,9 +823,9 @@
         "end": 10
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/17/A01_1_m.jpg",
+    "description": "選購箭竹筍時，以長15公分，直徑1公分以上，質細肉白者為上品",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=17"
   },
   {
     "name": "麻竹筍",
@@ -837,9 +837,9 @@
         "end": 10
       }
     ],
-    "image": "",
+    "image": "https://kmweb.coa.gov.tw/files/production_map/110/A01_1_m.jpg",
     "description": "",
-    "href": ""
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=110"
   },
   {
     "name": "蓮藕",
@@ -851,9 +851,9 @@
         "end": 9
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/111/dscf0690_m.jpg",
+    "description": "白河蓮子產量佔台灣蓮子的三分之一強，是台灣最大的漣子產地，口感鬆軟香甜，與進口蓮子久煮不爛，甚至殘留藥水味大不同，只要是白河出產的蓮花相關產品，都能有『在地生產』的品質保證。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=111"
   },
   {
     "name": "菱角",
@@ -865,22 +865,8 @@
         "end": 11
       }
     ],
-    "image": "",
+    "image": "https://kmweb.coa.gov.tw/files/production_map/113/dscf0827_m.jpg",
     "description": "",
-    "href": ""
-  },
-  {
-    "name": "杏鮑",
-    "alias": ["杏鮑菇"],
-    "summary": "",
-    "periods": [
-      {
-        "start": 12,
-        "end": 12
-      }
-    ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=113"
   }
 ]

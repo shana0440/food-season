@@ -225,7 +225,7 @@
   },
   {
     "name": "金棗",
-    "alias": [],
+    "alias": ["金柑"],
     "summary": "金棗不是棗，原名是「金柑」",
     "periods": [
       {
@@ -239,7 +239,7 @@
   },
   {
     "name": "柑橘",
-    "alias": [],
+    "alias": ["椪柑", "桶柑"],
     "summary": "秋末冬初正是臺灣柑橘成熟季節",
     "periods": [
       {
@@ -253,11 +253,11 @@
   },
   {
     "name": "柳丁",
-    "alias": [],
+    "alias": ["柳橙"],
     "summary": "好種植的水果，對環境適應性極強",
     "periods": [
       {
-        "start": 12,
+        "start": 10,
         "end": 2
       }
     ],
@@ -267,7 +267,7 @@
   },
   {
     "name": "蜜棗",
-    "alias": [],
+    "alias": ["棗"],
     "summary": "印度棗俗稱棗子、蜜棗，外形如青蘋果",
     "periods": [
       {
@@ -327,16 +327,12 @@
     "summary": "果肉為乳白色，口感綿密細膩",
     "periods": [
       {
-        "start": 1,
-        "end": 4
-      },
-      {
         "start": 7,
         "end": 9
       },
       {
         "start": 11,
-        "end": 12
+        "end": 4
       }
     ],
     "image": "https://ezgo.coa.gov.tw/Content/Ezgo_Fruit/images/season_cover/season_cover_custardapple.jpg",
@@ -345,7 +341,7 @@
   },
   {
     "name": "番石榴",
-    "alias": [],
+    "alias": ["芭樂"],
     "summary": "",
     "periods": [
       {
@@ -353,9 +349,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/7/img_0805_m.jpg",
+    "description": "購買芭樂時，要表皮光滑無碰損斑痕的，皮色黃中帶綠的為上品。太生的果實色綠且堅硬非常，食味略苦澀，但啖來爽脆有聲，果心較小。太熟果實觸摸時腍軟，易咀嚼但果心也較大。芭樂最宜食用的是在大半熟程度，不但香味濃郁，肉質也嫩滑得多。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=7"
   },
   {
     "name": "香蕉",
@@ -367,9 +363,9 @@
         "end": 12
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/147/img_1726_m.jpg",
+    "description": "香蕉是水果鉀含量最高者之ㄧ，每磅香蕉鉀含量高達1,141毫克，鈉僅有3毫克，多吃香蕉可以預防高血壓及心臟病。香蕉除供鮮食外，尚有許多食用方式。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=147"
   },
   {
     "name": "桶柑",
@@ -381,23 +377,9 @@
         "end": 4
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
-  },
-  {
-    "name": "柳橙",
-    "alias": [],
-    "summary": "",
-    "periods": [
-      {
-        "start": 10,
-        "end": 2
-      }
-    ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/2/_dsc1270_m.jpg",
+    "description": "果實屬中小型、柑橘味濃烈、果皮較厚，可剝皮，果肉柔軟、風味濃郁、年節重要果品，象徵吉利",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=2"
   },
   {
     "name": "椪柑",
@@ -409,22 +391,8 @@
         "end": 1
       }
     ],
-    "image": "",
-    "description": "",
-    "href": ""
-  },
-  {
-    "name": "棗",
-    "alias": [],
-    "summary": "",
-    "periods": [
-      {
-        "start": 12,
-        "end": 2
-      }
-    ],
-    "image": "",
-    "description": "",
-    "href": ""
+    "image": "https://kmweb.coa.gov.tw/files/production_map/118/_dsc4836_m.jpg",
+    "description": "東山鄉特產 ── 青皮椪柑，種植於海拔 400 公尺的山坡地，面積有 700 公頃，產期自每年國曆 9 月底至 11 月底，是東南亞最早成熟上市的椪柑。",
+    "href": "https://kmweb.coa.gov.tw/theme_data.php?theme=production_map&id=118"
   }
 ]
