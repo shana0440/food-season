@@ -142,7 +142,7 @@
 </section>
 
 {#if foodsToDisplay.length}
-  <section class="grid grid-cols-2 gap-2">
+  <section class="grid md:grid-cols-2 gap-2">
     {#each foodsToDisplay as food}
       <Card item={food} />
     {/each}
