@@ -24,6 +24,14 @@
     searching = e.target.value;
   };
 
+  const handleLoseFocus = (e) => {
+    const isClickResultItem =
+      e && e.relatedTarget && e.relatedTarget.classList.contains("result-item");
+    if (!isClickResultItem) {
+      displaySearchList = false;
+    }
+  };
+
   const handleClickResultItem = (item) => () => {
     searching = item.name;
     displaySearchList = false;
@@ -42,6 +50,7 @@
       value={searching}
       on:input={handleInput}
       on:focus={handleFocus}
+      on:focusout={handleLoseFocus}
     />
     <div class="absolute inset-y-0 right-0 flex items-center pr-2">
       <svg
@@ -65,10 +74,7 @@
       class="absolute rounded-md border-2 border-gray-200 divide-y divide-gray-200 py-1 px-2 mt-2 max-h-52 overflow-y-auto w-full bg-white"
     >
       {#each itemsToDisplay as item}
-        <button
-          on:click={handleClickResultItem(item)}
-          class="px-2 py-1 flex items-center w-full"
-        >
+        <button on:click={handleClickResultItem(item)} class="result-item">
           {#if item.image}
             <img
               class="h-6 w-6 mr-2 rounded-sm"
@@ -85,3 +91,9 @@
     </div>
   {/if}
 </div>
+
+<style lang="postcss">
+  .result-item {
+    @apply px-2 py-1 flex items-center w-full;
+  }
+</style>
