@@ -3,6 +3,7 @@
   import vegetablesSource from "../data/vegetables.json";
   import Card from "../components/Card.svelte";
   import Button from "../components/Button.svelte";
+  import SearchInput from "../components/SearchInput.svelte";
 
   const FRUIT = "fruit";
   const VEGETABLE = "vegetable";
@@ -18,11 +19,13 @@
   $: isAllTypeSelected =
     selectedTypes.includes(FRUIT) && selectedTypes.includes(VEGETABLE);
   let selectedMonth = new Date().getMonth() + 1;
+  let searchedFood = null;
 
-  $: foodsToDisplay = [
+  $: foodsToSearch = [
     ...filterFoodsByMonth(fruits, selectedMonth),
     ...filterFoodsByMonth(vegetables, selectedMonth),
   ].filter((it) => selectedTypes.includes(it.type));
+  $: foodsToDisplay = searchedFood ? [searchedFood] : foodsToSearch;
 
   const monthInPeriod = (period, month) => {
     if (period.start <= period.end) {
@@ -59,6 +62,13 @@
     } else {
       selectedTypes = [...selectedTypes, type];
     }
+  };
+
+  const handleSearch = (item) => {
+    searchedFood = item;
+  };
+  const handleClear = () => {
+    searchedFood = null;
   };
 </script>
 
@@ -122,10 +132,19 @@
   </Button>
 </section>
 
+<section class="mb-2">
+  <SearchInput
+    class="md:w-1/2 mx-auto"
+    items={foodsToSearch}
+    onSearch={handleSearch}
+    onClear={handleClear}
+  />
+</section>
+
 {#if foodsToDisplay.length}
   <section class="grid grid-cols-2 gap-2">
-    {#each foodsToDisplay as fruit}
-      <Card item={fruit} />
+    {#each foodsToDisplay as food}
+      <Card item={food} />
     {/each}
   </section>
 {:else}
