@@ -37,6 +37,11 @@
     displaySearchList = false;
     onSearch(item);
   };
+
+  const handleClear = () => {
+    searching = "";
+    onClear();
+  };
 </script>
 
 <div class="relative {$$props.class}">
@@ -52,10 +57,13 @@
       on:focus={handleFocus}
       on:focusout={handleLoseFocus}
     />
-    <div class="absolute inset-y-0 right-0 flex items-center pr-2">
+    <button
+      class="absolute inset-y-0 right-0 flex items-center pr-2 stroke-current text-gray-400"
+      on:click={handleClear}
+    >
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        class="h-6 w-6 stroke-current text-gray-400"
+        class="h-6 w-6"
         fill="none"
         viewBox="0 0 24 24"
         stroke="currentColor"
@@ -64,10 +72,10 @@
           stroke-linecap="round"
           stroke-linejoin="round"
           stroke-width="2"
-          d="M19 9l-7 7-7-7"
+          d="M6 18L18 6M6 6l12 12"
         />
       </svg>
-    </div>
+    </button>
   </div>
   {#if displaySearchList}
     <div
