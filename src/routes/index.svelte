@@ -70,6 +70,12 @@
   const handleClear = () => {
     searchedFood = null;
   };
+  const monthOptions = [null, ...Array(12).fill(1).map((_, i) => i + 1).values()].map((it => {
+    return {
+      value: it,
+      label: it ? `${it}月` : "全部"
+    }
+  }))
 </script>
 
 <section class="my-2 text-center">
@@ -90,46 +96,12 @@
   </Button>
 </section>
 
-<section class="my-2 text-center">
-  <Button isSelected={selectedMonth == null} on:click={handleSelectMonth(null)}>
-    全部
-  </Button>
-  <Button isSelected={selectedMonth == 1} on:click={handleSelectMonth(1)}>
-    1月
-  </Button>
-  <Button isSelected={selectedMonth == 2} on:click={handleSelectMonth(2)}>
-    2月
-  </Button>
-  <Button isSelected={selectedMonth == 3} on:click={handleSelectMonth(3)}>
-    3月
-  </Button>
-  <Button isSelected={selectedMonth == 4} on:click={handleSelectMonth(4)}>
-    4月
-  </Button>
-  <Button isSelected={selectedMonth == 5} on:click={handleSelectMonth(5)}>
-    5月
-  </Button>
-  <Button isSelected={selectedMonth == 6} on:click={handleSelectMonth(6)}>
-    6月
-  </Button>
-  <Button isSelected={selectedMonth == 7} on:click={handleSelectMonth(7)}>
-    7月
-  </Button>
-  <Button isSelected={selectedMonth == 8} on:click={handleSelectMonth(8)}>
-    8月
-  </Button>
-  <Button isSelected={selectedMonth == 9} on:click={handleSelectMonth(9)}>
-    9月
-  </Button>
-  <Button isSelected={selectedMonth == 10} on:click={handleSelectMonth(10)}>
-    10月
-  </Button>
-  <Button isSelected={selectedMonth == 11} on:click={handleSelectMonth(11)}>
-    11月
-  </Button>
-  <Button isSelected={selectedMonth == 12} on:click={handleSelectMonth(12)}>
-    12月
-  </Button>
+<section class="my-2 text-center flex gap-1 justify-center">
+  {#each monthOptions as option}
+    <Button isSelected={selectedMonth == option.value} on:click={handleSelectMonth(option.value)}>
+      {option.label}
+    </Button>
+  {/each}
 </section>
 
 <section class="mb-2">
